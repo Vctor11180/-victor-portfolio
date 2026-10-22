@@ -85,7 +85,7 @@ export const projects: Project[] = [
     role: "Frontend & Web3 Integration",
     links: [
       { label: "Demo", href: "https://frontend-mu-bay-zvc6ih2zcs.vercel.app" },
-      { label: "Repo", href: "https://github.com/RonaldGaymer2002/RoutePay" },
+      { label: "Repo", href: "https://github.com/RoutePay-Protocol/routepay" },
     ],
   },
   {
@@ -98,8 +98,9 @@ export const projects: Project[] = [
     solution: "Deterministic evidence substrate for LLMs over an MCP server, WDK guardrails and on-chain anchoring.",
     role: "Smart Contracts & Web3 Core",
     links: [
+      { label: "Demo", href: "https://casandra-two.vercel.app" },
       { label: "Contract", href: "https://sepolia.etherscan.io/address/0x27544Fe45b81C09fC91f99c0A7374970839eC4FF" },
-      { label: "Repo", href: "https://github.com/RonaldGaymer2002/Casandra" },
+      { label: "Repo", href: "https://github.com/Kenyi001/oraculo-radiohead" },
     ],
   },
   {
@@ -113,7 +114,7 @@ export const projects: Project[] = [
     role: "Smart Contracts & Web3 Dev",
     links: [
       { label: "Demo", href: "https://yalita-one.vercel.app/" },
-      { label: "Repo", href: "https://github.com/RonaldGaymer2002/Yalita---Avalanche" },
+      { label: "Repo", href: "https://github.com/Vctor11180/Yalita" },
     ],
   },
   {
@@ -227,19 +228,19 @@ export const devlog = [
   {
     title: "ERC-2771 meta-transactions with Tangem NFC in 48 hours",
     note: "Frictionless EIP-712 signatures for truck drivers with zero crypto background.",
-    href: "https://github.com/RonaldGaymer2002/RoutePay",
+    href: "https://github.com/RoutePay-Protocol/routepay",
     tag: "Post-mortem",
   },
   {
     title: "Deterministic AI agents with Tether WDK and MCP",
     note: "Why an LLM should never swap directly — and how to design an Evidence Pack.",
-    href: "https://github.com/RonaldGaymer2002/Casandra",
+    href: "https://github.com/Kenyi001/oraculo-radiohead",
     tag: "Architecture",
   },
   {
     title: "zkTLS over local payment rails without official APIs",
     note: "Privacy-preserving proofs of solvency on Avalanche C-Chain.",
-    href: "https://github.com/RonaldGaymer2002/Yalita---Avalanche",
+    href: "https://github.com/Vctor11180/Yalita",
     tag: "Cryptography",
   },
   {
