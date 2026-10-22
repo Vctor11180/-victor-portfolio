@@ -30,7 +30,7 @@ export const profile = {
     "I design distributed systems and on-chain protocols that ship — from hexagonal backends and serverless pipelines to Soroban, Solidity and Anchor contracts. Battle-tested across international hackathons on Ethereum, Avalanche, Stellar and Solana.",
   location: "Bolivia · LATAM · Remote",
   status: "Available for global challenges & hackathons",
-  email: "victor.murillo.siles@gmail.com",
+  email: "victormurillor6@gmail.com",
   // Drop your CV at /public/cv.pdf and set this to "/cv.pdf" to show the button.
   cv: null as string | null,
   site: "https://vctor11180.vercel.app",
@@ -38,7 +38,7 @@ export const profile = {
 
 export const socials = {
   github: "https://github.com/Vctor11180",
-  linkedin: "https://linkedin.com/in/victor-murillo-siles",
+  linkedin: "https://www.linkedin.com/in/vmurillos",
   // Add your handle (e.g. "https://t.me/yourhandle") to enable it in the terminal.
   telegram: null as string | null,
 };
